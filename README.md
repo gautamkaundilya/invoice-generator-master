@@ -26,4 +26,4 @@ npm start / npm run build
 
 ### Meta
 
-Gautam kaundiylya
+Gautam kaundilya
